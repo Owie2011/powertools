@@ -1,0 +1,10 @@
+MainActivity	activity_main	GridAdapter	base_layout	[Main Screen]
+Main1Activity	activity_main1	GridAdapter1	base_layout1	[Managers]
+Main2Activity	activity_main2	GridAdapter2	base_layout2	[Manager's manipulate(choose) user/stock (Add/Edit)]
+Main3Activity	(No Nothing)					[* User]
+Main4Activity(No Code yet)	activity_main4	[stock Add]
+Main5Activity(No Code yet)	activity_main5	[stock Edit]
+Main6Activity(Function on Login, label code)	activity_main6	[Log in Manager]
+Main7Activity()	activity_main7	[Log in Manager]
+
+
